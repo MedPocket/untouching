@@ -72,6 +72,10 @@ export default defineConfig({
           label: 'Work hard and play hard!',
           link: '/23-12-06',
         },
+        {
+          label: 'What ís love?',
+          link: '/23-12-24',
+        },
       ],
       tableOfContents: false,
       pagination: false,

@@ -73,7 +73,7 @@ export default defineConfig({
           link: '/23-12-06',
         },
         {
-          label: 'What ís love?',
+          label: 'What is love?',
           link: '/23-12-24',
         },
       ],

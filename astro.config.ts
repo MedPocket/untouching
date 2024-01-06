@@ -76,6 +76,10 @@ export default defineConfig({
           label: 'What is love?',
           link: '/23-12-24',
         },
+        {
+          label: 'Hello 2024',
+          link: '/24-01-06',
+        },
       ],
       tableOfContents: false,
       pagination: false,

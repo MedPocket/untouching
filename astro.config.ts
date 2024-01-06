@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
 import tailwind from '@astrojs/tailwind'
+import starlightLinksValidator from 'starlight-links-validator'
 
 // https://astro.build/config
 export default defineConfig({
@@ -83,6 +84,7 @@ export default defineConfig({
       ],
       tableOfContents: false,
       pagination: false,
+      plugins: [starlightLinksValidator()],
     }),
     tailwind({
       applyBaseStyles: false,

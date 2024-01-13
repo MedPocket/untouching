@@ -81,6 +81,10 @@ export default defineConfig({
           label: 'Hello 2024',
           link: '/24-01-06',
         },
+        {
+          label: 'Bao giờ mới tự nuôi được bản thân nhỉ?',
+          link: '/24-01-13',
+        },
       ],
       tableOfContents: false,
       pagination: false,

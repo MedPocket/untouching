@@ -85,6 +85,10 @@ export default defineConfig({
           label: 'Bao giờ mới tự nuôi được bản thân nhỉ?',
           link: '/24-01-13',
         },
+        {
+          label: 'Tổn thương',
+          link: '/24-02-04',
+        },
       ],
       tableOfContents: false,
       pagination: false,

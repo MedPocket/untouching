@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/untouching",
   "version": "0.1.0",
-  "description": "one of my diary",
+  "description": "Vài dòng nhật ký",
   "scripts": {
     "build": "astro build",
     "dev": "astro dev",

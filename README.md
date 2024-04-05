@@ -9,8 +9,8 @@
 ```sh
 git clone https://github.com/MedPocket/untouching --depth=1
 cd untouching
-pnpm install
-pnpm dev
+bun install
+bun dev
 ```
 
 ## Want to learn more?

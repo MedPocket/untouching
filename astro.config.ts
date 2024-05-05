@@ -16,6 +16,9 @@ export default defineConfig({
       social: {
         github: 'https://github.com/MedPocket/untouching',
       },
+      components: {
+        Head: './src/components/Head.astro',
+      },
       tableOfContents: false,
       pagination: false,
       plugins: [starlightLinksValidator()],
